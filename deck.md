@@ -1,4 +1,6 @@
 footer: Instrumenting your way to success :: Chris Johnson :: @johnsonch
+build-lists: true
+autoscale: true
 
 # Instrumenting your way to success
 
@@ -51,14 +53,21 @@ Come talk to me!
 
 ![full](https://images.pexels.com/photos/261909/pexels-photo-261909.jpeg)
 
+^ Spoiler!
+
 ---
 # Why is it important?
 
-* You will look smarter when you can quickly diagnose issues and validate features
-* Being intentional in your logging helps stick to providing business value
+* You will look smarter when:
+  * you can quickly diagnose issues
+  * validate features
+* Being intentional helps stick to providing business value
+
+![full](https://images.pexels.com/photos/356079/pexels-photo-356079.jpeg)
 
 ---
 # After today we'll
+
 * Have some ideas and some patterns to take back home with you
 * A passion for tracking metrics about your applications
 
@@ -68,6 +77,8 @@ Come talk to me!
     organizing those logs into a consistant parsable form
   What should we take home from this session?
     - A passion for tracking your applications metrics
+
+![full](https://images.pexels.com/photos/39644/robonaut-machines-dexterous-humanoid-39644.jpeg)
 
 ---
 # What you're not going to learn
@@ -253,6 +264,8 @@ BENCHMARKLOGGER = BenchmarkLogger.new(logfile) # constant accessible anywhere
 
 ^ https://www.zillow.com/engineering/debugging-production-event-logging/
 
+![full](images/IMG_6005.jpg)
+
 ---
 ### Case Study :: Zillow
 
@@ -277,8 +290,10 @@ end
 
 ^ https://www.zillow.com/engineering/debugging-production-event-logging/
 
+![full](images/20170806-IMG_8213.jpg)
+
 ---
-# Wrap up
+# What next?
 
 ![fit inline](https://i.imgflip.com/28t0vs.jpg)
 
@@ -286,6 +301,13 @@ end
 # Thank You
 
 Chris Johnson
-email: chris@johnsonch.com
+email: chris@johnsonch.com / cj@healthfinch.com
 twitter: @johnsonch
+
+---
+# healthfinch is hiring!
+
+Come talk to me!
+
+![fit right](images/Charlie_Flag-01-01.png)
 

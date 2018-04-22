@@ -303,6 +303,7 @@ end
 Chris Johnson
 email: chris@johnsonch.com / cj@healthfinch.com
 twitter: @johnsonch
+slides: https://github.com/johnsonch/Instrumenting_your_way_to_success/blob/master/deck.md
 
 ---
 # healthfinch is hiring!
